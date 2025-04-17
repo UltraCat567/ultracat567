@@ -10,11 +10,12 @@
         <li>I'm a degenerate who develops games in my small room ヽ(*・ω・)ﾉ </li>
       </ul>
     </td>
-    alignp <="center">
+    
+  </tr>
+  alignp <="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,unreal,figma,ae,ps,blender" />
   </a>
 </p>
-  </tr>
   
 </table>
