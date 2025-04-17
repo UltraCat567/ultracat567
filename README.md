@@ -12,7 +12,7 @@
     </td>
     
   </tr>
-  alignp <="center">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,unreal,figma,ae,ps,blender" />
   </a>
