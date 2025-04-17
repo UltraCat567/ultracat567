@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="https://tenor.com/ru/view/purediscordserver-gif-928613133965538590" alt="gif" width="100%">
+      <img src="https://media1.tenor.com/m/DOMYua_HNR4AAAAC/purediscordserver.gif" alt="gif" width="100%">
     </td>
     <td width="60%">
       <h3>What's going on here</h3>
