@@ -7,8 +7,8 @@
       <h3>Kojima Productions: Wait for Me</h3>
       <ul>
         <li><strong>unreal engine and blender are too good a combination</strong></li>
-        <li>I'm a Gavkashmyg who develops games in my small room 
-          ヽ(*・ω・)ﾉ </li>
+        <li> * I'm a Gavkashmyg who develops games in my small room 
+             * ヽ(*・ω・)ﾉ </li>
       </ul>
     </td>
     
