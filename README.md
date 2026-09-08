@@ -14,7 +14,7 @@
   </tr>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,unreal,figma,ae,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,unreal,figma,ae,ps,blender,ai,obsidian,react,xd" />
   </a>
 </p>
   
